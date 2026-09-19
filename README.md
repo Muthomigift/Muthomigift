@@ -1,4 +1,5 @@
 **Hello**
+
 **Gift Muthomi | Python Developer | Automation & AI Tools**
 ---
 Building practical tools that solve actual problems. Based in Nairobi, Kenya.
