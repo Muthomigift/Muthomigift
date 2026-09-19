@@ -1,6 +1,6 @@
 **Gift Muthomi | Python Developer | Automation & AI Tools**
 ---
-Building practical tools that solve actual problems. Based in Nairobi, Kenya.
+Building practical tools that solve actual problems. Based in **Nairobi, Kenya**.
 
 **What I Build**
 ---
