@@ -17,8 +17,6 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Tech Stack**
 ---
-## 💻 Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode,mysql&perline=15" height="35" />
 </p>
