@@ -17,6 +17,8 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 - [Job Listing Scraper Tool](https://github.com/Muthomigift/Job-Listing-Scraper) - A Python automation tool that extracts job listings from websites, collects relevant details such as job titles, company names, and application links, and organizes the information for easy job searching and tracking.
 
+- [Kisumu Pharmacy Chatbot](https://github.com/Muthomigift/Kisumu-Pharmacy-Chatbot) - An AI-powered customer support chatbot that assists pharmacy customers by answering product-related enquiries, providing information, and improving customer engagement through automated, real-time conversations.
+
 **Tech Stack**
 ---
 <p align="left">
