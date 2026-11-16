@@ -17,16 +17,11 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Tech Stack**
 ---
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+## 💻 Tech Stack
 
-### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,git,github,vscode,mysql&perline=15" height="35" />
 </p>
-
 
 **Connect with me**
 ---
