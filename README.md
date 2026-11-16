@@ -15,7 +15,7 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
   
 - [Egg Production Tracker Tool](https://github.com/Muthomigift/Egg-Production-Tracker-Web-Interface-) - A Python-based management tool that records and monitors daily egg production, tracks production trends, and organizes farm data to simplify record-keeping and support better decision-making.
 
-- [Job Listing Tracker Tool](https://github.com/Muthomigift/Job-Listing-Scraper) - A Python automation tool that extracts job listings from websites, collects relevant details such as job titles, company names, and application links, and organizes the information for easy job searching and tracking.
+- [Job Listing Scraper Tool](https://github.com/Muthomigift/Job-Listing-Scraper) - A Python automation tool that extracts job listings from websites, collects relevant details such as job titles, company names, and application links, and organizes the information for easy job searching and tracking.
 
 **Tech Stack**
 ---
