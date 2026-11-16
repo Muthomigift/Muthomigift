@@ -15,9 +15,18 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 - **api-dashboard**: Multi-endpoint data dashboard with pandas reports
 - **browser-coach**: Client-side AI coaching tool in JavaScript
 
-**Stack**
+**Tech Stack**
 ---
-Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi,mysql" />
+</p>
+
 
 **Connect with me**
 ---
