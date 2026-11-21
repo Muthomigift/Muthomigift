@@ -25,6 +25,9 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **GitHub:** https://github.com/Muthomigift/Content-Pipeline-AI
 
+Screenshot 2026-11-21 122049.png
+
+
 
 - [Weekly Email Report Generator](https://github.com/Muthomigift/Weekly-Report-Generator) - A Python automation tool that processes data, generates structured weekly reports, and automatically emails the reports every Sunday, reducing manual work and saving time.
   
