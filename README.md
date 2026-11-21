@@ -25,7 +25,7 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **GitHub:** https://github.com/Muthomigift/Content-Pipeline-AI
 
-Screenshot 2026-11-21 122049.png
+https://github.com/Muthomigift/Muthomigift/blob/main/Screenshot%202026-11-21%20122049.png
 
 
 
