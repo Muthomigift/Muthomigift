@@ -12,7 +12,7 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 **Current Projects**
 ---
 
--[Content Pipeline AI](https://github.com/Muthomigift/Content-Pipeline-AI) - ### Content Pipeline AI
+- [Content Pipeline AI](https://github.com/Muthomigift/Content-Pipeline-AI)
 
 **What it does:** An AI-powered application that transforms topics and article URLs into blog posts, five X posts, and LinkedIn content.
 
