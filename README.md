@@ -11,6 +11,21 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Current Projects**
 ---
+-[Content Pipeline AI](https://github.com/Muthomigift/Content-Pipeline-AI) - ### Content Pipeline AI
+
+**What it does:** An AI-powered application that transforms topics and article URLs into blog posts, five X posts, and LinkedIn content.
+
+**Who it helps:** Digital marketing agencies, content creators, and small businesses in Kenya.
+
+**Problem it solves:** Reduces the time spent manually researching and creating content for multiple platforms.
+
+**Stack:** Python, Flask, Anthropic Claude API, HTML, CSS, JavaScript, BeautifulSoup, Render.
+
+**Live link:** https://content-pipeline-ai.onrender.com/
+
+**GitHub:** https://github.com/Muthomigift/Content-Pipeline-AI
+
+
 - [Weekly Email Report Generator](https://github.com/Muthomigift/Weekly-Report-Generator) - A Python automation tool that processes data, generates structured weekly reports, and automatically emails the reports every Sunday, reducing manual work and saving time.
   
 - [Egg Production Tracker Tool](https://github.com/Muthomigift/Egg-Production-Tracker-Web-Interface-) - A Python-based management tool that records and monitors daily egg production, tracks production trends, and organizes farm data to simplify record-keeping and support better decision-making.
