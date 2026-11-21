@@ -11,6 +11,7 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Current Projects**
 ---
+
 -[Content Pipeline AI](https://github.com/Muthomigift/Content-Pipeline-AI) - ### Content Pipeline AI
 
 **What it does:** An AI-powered application that transforms topics and article URLs into blog posts, five X posts, and LinkedIn content.
@@ -23,9 +24,8 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Live link:** https://content-pipeline-ai.onrender.com/
 
-**GitHub:** https://github.com/Muthomigift/Content-Pipeline-AI
-
 ![Content Pipeline AI Screenshot](https://raw.githubusercontent.com/Muthomigift/Muthomigift/main/Screenshot%202026-11-21%20122049.png)
+![Content Pipeline AI Screenshot 2](https://raw.githubusercontent.com/Muthomigift/Muthomigift/main/Screenshot%202026-11-21%20122559.png)
 
 
 
