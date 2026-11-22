@@ -46,6 +46,7 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 **Live link:** [https://egg-production-tracker.onrender.com/](https://egg-production-tracker.onrender.com/)
 
 **Screensot:** View the application screenshots below to see how the Egg Production Tracker works.
+![Egg Production Tracker Screenshot](https://github.com/Muthomigift/Muthomigift/blob/main/Screenshot%202026-11-22%20075225.png)
 
 - [Job Listing Scraper Tool](https://github.com/Muthomigift/Job-Listing-Scraper) - A Python automation tool that extracts job listings from websites, collects relevant details such as job titles, company names, and application links, and organizes the information for easy job searching and tracking.
 
