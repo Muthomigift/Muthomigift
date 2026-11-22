@@ -31,8 +31,6 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 ![Content Pipeline AI Screenshot](https://raw.githubusercontent.com/Muthomigift/Muthomigift/main/Screenshot%202026-11-21%20122049.png)
 ![Content Pipeline AI Screenshot 2](https://raw.githubusercontent.com/Muthomigift/Muthomigift/main/Screenshot%202026-11-21%20122559.png)
 
-
-
 - [Weekly Email Report Generator](https://github.com/Muthomigift/Weekly-Report-Generator)
 
 **What it does:** A Python automation tool that processes daily sales data, generates weekly sales reports with charts and AI-powered insights, and automatically emails the reports every Sunday at 6 PM.
@@ -46,6 +44,12 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 **Live link:** Not applicable (locally scheduled automation tool).
 
 **Call to Action:** Still preparing sales reports manually? Automate your weekly reporting and get clear sales insights delivered straight to your inbox!
+
+**Screenshot:** View the application screenshots below to see how the tool works.
+
+![Content Pipeline AI - Screenshot 1](https://github.com/Muthomigift/Muthomigift/blob/main/Screenshot%202026-11-22%20085242.png)
+
+![Content Pipeline AI - Screenshot 2](https://github.com/Muthomigift/Muthomigift/blob/main/Screenshot%202026-11-22%20090418.png)
   
 - [Egg Production Tracker Tool](https://github.com/Muthomigift/Egg-Production-Tracker-Web-Interface-)
 
@@ -61,7 +65,7 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Call to Action:** Have a poultry farm and still track egg production manually? Try the Egg Production Tracker today and simplify your daily record-keeping!
 
-**Screensot:** View the application screenshots below to see how the Egg Production Tracker works.
+**Screenshot:** View the application screenshots below to see how the Egg Production Tracker works.
 ![Egg Production Tracker Screenshot](https://github.com/Muthomigift/Muthomigift/blob/main/Screenshot%202026-11-22%20075225.png)
 
 - [Job Listing Scraper Tool](https://github.com/Muthomigift/Job-Listing-Scraper) - A Python automation tool that extracts job listings from websites, collects relevant details such as job titles, company names, and application links, and organizes the information for easy job searching and tracking.
