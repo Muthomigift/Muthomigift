@@ -24,6 +24,8 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Live link:** https://content-pipeline-ai.onrender.com/
 
+**Screenshot:** View the application screenshots below to see how the Content Pipeline AI works.
+
 ![Content Pipeline AI Screenshot](https://raw.githubusercontent.com/Muthomigift/Muthomigift/main/Screenshot%202026-11-21%20122049.png)
 ![Content Pipeline AI Screenshot 2](https://raw.githubusercontent.com/Muthomigift/Muthomigift/main/Screenshot%202026-11-21%20122559.png)
 
@@ -31,7 +33,19 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 - [Weekly Email Report Generator](https://github.com/Muthomigift/Weekly-Report-Generator) - A Python automation tool that processes data, generates structured weekly reports, and automatically emails the reports every Sunday, reducing manual work and saving time.
   
-- [Egg Production Tracker Tool](https://github.com/Muthomigift/Egg-Production-Tracker-Web-Interface-) - A Python-based management tool that records and monitors daily egg production, tracks production trends, and organizes farm data to simplify record-keeping and support better decision-making.
+- [Egg Production Tracker Tool](https://github.com/Muthomigift/Egg-Production-Tracker-Web-Interface-)
+
+**What it does:** A web-based application that helps poultry farmers record, track, and monitor daily egg production across different sheds.
+
+**Who it helps:** Poultry farmers, farm managers, and commercial egg producers in Kenya.
+
+**Problem it solves:** Replaces manual egg production records with a digital system that automatically calculates totals and organizes production data.
+
+**Stack:** Python, Flask, HTML, CSS, JavaScript, Render.
+
+**Live link:** [https://egg-production-tracker.onrender.com/](https://egg-production-tracker.onrender.com/)
+
+**Screensot:** View the application screenshots below to see how the Egg Production Tracker works.
 
 - [Job Listing Scraper Tool](https://github.com/Muthomigift/Job-Listing-Scraper) - A Python automation tool that extracts job listings from websites, collects relevant details such as job titles, company names, and application links, and organizes the information for easy job searching and tracking.
 
