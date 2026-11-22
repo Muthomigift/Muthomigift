@@ -33,7 +33,19 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 
 
-- [Weekly Email Report Generator](https://github.com/Muthomigift/Weekly-Report-Generator) - A Python automation tool that processes data, generates structured weekly reports, and automatically emails the reports every Sunday, reducing manual work and saving time.
+- [Weekly Email Report Generator](https://github.com/Muthomigift/Weekly-Report-Generator)
+
+**What it does:** A Python automation tool that processes daily sales data, generates weekly sales reports with charts and AI-powered insights, and automatically emails the reports every Sunday at 6 PM.
+
+**Who it helps:** Retail shop owners, small businesses, supermarkets, and sales managers in Kenya.
+
+**Problem it solves:** Eliminates manual sales calculations and report preparation by automatically summarizing weekly performance and delivering reports through email.
+
+**Stack:** Python, Gemini AI API, Gmail SMTP, Pandas, Matplotlib, Python-dotenv, Windows Task Scheduler.
+
+**Live link:** Not applicable (locally scheduled automation tool).
+
+**Call to Action:** Still preparing sales reports manually? Automate your weekly reporting and get clear sales insights delivered straight to your inbox!
   
 - [Egg Production Tracker Tool](https://github.com/Muthomigift/Egg-Production-Tracker-Web-Interface-)
 
