@@ -24,6 +24,8 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Live link:** https://content-pipeline-ai.onrender.com/
 
+**Call to Action:** Struggling to create consistent content for your business? Try Content Pipeline AI today and turn one topic into multiple platform-ready posts in minutes!
+
 **Screenshot:** View the application screenshots below to see how the Content Pipeline AI works.
 
 ![Content Pipeline AI Screenshot](https://raw.githubusercontent.com/Muthomigift/Muthomigift/main/Screenshot%202026-11-21%20122049.png)
