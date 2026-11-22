@@ -45,6 +45,8 @@ Building practical tools that solve actual problems. Based in **Nairobi, Kenya**
 
 **Live link:** [https://egg-production-tracker.onrender.com/](https://egg-production-tracker.onrender.com/)
 
+**Call to Action:** Have a poultry farm and still track egg production manually? Try the Egg Production Tracker today and simplify your daily record-keeping!
+
 **Screensot:** View the application screenshots below to see how the Egg Production Tracker works.
 ![Egg Production Tracker Screenshot](https://github.com/Muthomigift/Muthomigift/blob/main/Screenshot%202026-11-22%20075225.png)
 
